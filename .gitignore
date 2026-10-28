@@ -1,0 +1,13 @@
+# PyInstaller and Build artifacts
+build/
+dist/
+*.spec
+
+# Installer outputs and archives
+*.exe
+*.zip
+*.7z
+*.pkg
+Audio Hand Control/
+*.pyc
+__pycache__/
